@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and developing websites.
 - 🌱 I’m currently learning C and Java
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me ...
+
 
 <!---
 sanjughasal/sanjughasal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
